@@ -5,41 +5,59 @@
 A [Data Engineer](https://www.linkedin.com/in/byronkim417) based out of Atlanta, GA. I love building applications & discussing new product ideas.
 <br/>
 <br/>
-Ask me anything about...
 
+**Ask me about:** Python, Flask, Data Engineering, dbt, Dagster, AWS, and Web Development
+<br/>
+<br/>
 
-Reach out to me at...
+**Reach out to me at:** bbkim4421@gmail.com
 
 <a href="https://www.linkedin.com/in/byronkim417">
-  <img align="left" alt="Burhanuddin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Byron's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br/>
 <br/>
+
+---
+
+### 🚀 Featured Project
+
+🔥 **[Elevation Calculator](https://github.com/byronk14/elevation-calculator)** - Interactive web app for calculating elevation differences between two points on a map. Built with Flask, Leaflet.js, and Open-Elevation API.
+
+---
+
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=byronk14&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
 #### Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg" height="35">
 
 #### Tools and Frameworks
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="35">
 
 <br/>
-<br/>
 
-<a href="https://github.com/byronk14">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byronk14&theme=light&hide_langs_below=1" />
-</a>
+---
 
-- 🔭 I’m currently working on data engineering & aws web app development
-- 🌱 I’m currently learning dbt and dagster
+### About Me
+
+- 🔭 I’m currently working on data engineering & AWS web app development
+- 🌱 I’m currently learning **dbt** and **Dagster**
 - 👯 I’m looking to collaborate on data projects
 - 🤔 I’m looking for help with my open source projects
-- 💬 Apart from tech you can Ask me about current events, sports and pop culture.
-- 📫 How to reach me at bbkim4421@gmail.com
+- 💬 Apart from tech you can ask me about current events, sports and pop culture
+- 📫 How to reach me: **bbkim4421@gmail.com**
 
 <br/>
 <br/>
+
+---
+
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+</p>
