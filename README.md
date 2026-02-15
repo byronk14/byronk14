@@ -2,11 +2,11 @@
 
 ## Hey, I'm [Byron Kim!](https://www.linkedin.com/in/byronkim417) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=byronk14&label=Views&color=blue&style=plastic" alt="byronk14" /> </a>
 
-A [Data Engineer](https://www.linkedin.com/in/byronkim417) based out of Atlanta, GA. I love building applications & discussing new product ideas.
+An [Engineer](https://www.linkedin.com/in/byronkim417) based out of Atlanta, GA. I love building applications & discussing new product ideas.
 <br/>
 <br/>
 
-**Ask me about:** Python, Flask, Data Engineering, dbt, Dagster, AWS, and Web Development
+**Ask me about:** Python, Typescript, Data Engineering, dbt, Dagster, AWS, Palantir Development
 <br/>
 <br/>
 
