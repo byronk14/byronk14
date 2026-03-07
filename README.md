@@ -24,6 +24,8 @@ An [Engineer](https://www.linkedin.com/in/byronkim417) based out of Atlanta, GA.
 
 🔥 **[Elevation Calculator](https://github.com/byronk14/elevation-calculator)** - Interactive web app for calculating elevation differences between two points on a map. Built with Flask, Leaflet.js, and Open-Elevation API.
 
+🔥 **[Fleet Management](https://github.com/byronk14/fleet-management)** - Interactive web app for simulating live vehicle fleet data. Built with Typescript, React, Node.js.
+
 ---
 
 <br/>
