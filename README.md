@@ -1,5 +1,3 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
-
 ## Hey, I'm [Byron Kim!](https://www.linkedin.com/in/byronkim417) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=byronk14&label=Views&color=blue&style=plastic" alt="byronk14" /> </a>
 
 An [Engineer](https://www.linkedin.com/in/byronkim417) based out of Atlanta, GA. I love building applications & discussing new product ideas.
@@ -20,11 +18,17 @@ An [Engineer](https://www.linkedin.com/in/byronkim417) based out of Atlanta, GA.
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
+
+🔥 **[Event Map](https://github.com/byronk14/eventmap)** - Live map of events around you with heatmap and interactive pins. Built with Next.js, React, TypeScript, MapLibre, Tailwind, and the Ticketmaster API.
+
+🔥 **[Data ETL Demo](https://github.com/byronk14/data-etl-demo)** - End-to-end NBA ETL pipeline, orchestrated with Dagster and transformed with dbt on DuckDB.
 
 🔥 **[Elevation Calculator](https://github.com/byronk14/elevation-calculator)** - Interactive web app for calculating elevation differences between two points on a map. Built with Flask, Leaflet.js, and Open-Elevation API.
 
 🔥 **[Fleet Management](https://github.com/byronk14/fleet-management)** - Interactive web app for simulating live vehicle fleet data. Built with Typescript, React, Node.js.
+
+🔥 **[Dagster Demo](https://github.com/byronk14/dagster-demo)** - Learning workspace for building data pipelines with Dagster.
 
 ---
 
