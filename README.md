@@ -11,7 +11,7 @@ An [Engineer](https://www.linkedin.com/in/byronkim417) based out of Atlanta, GA.
 **Reach out to me at:** bbkim4421@gmail.com
 
 <a href="https://www.linkedin.com/in/byronkim417">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="20"/>
+  <img align="left" alt="Byron's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br/>
 <br/>
