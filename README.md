@@ -57,7 +57,7 @@ An [Engineer](https://www.linkedin.com/in/byronkim417) based out of Atlanta, GA.
 - 🔭 I’m currently working with LLMs and AI
 - 🤖 Claude Code, Ollama, Open Source LLMs
 - 👾 Expertise in data engineering & AWS & Palantir & typescript development
-- 🌱 I’m currently learning **OpenClaw**
+- 🌱 I’m currently using **OpenClaw**
 - 👯 I’m looking to collaborate on data projects
 - 🤔 I’m looking for help with my open source projects
 - 💬 Apart from tech you can ask me about current events, sports and pop culture
